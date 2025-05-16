@@ -1,4 +1,4 @@
-module github.com/i9si-sistemas/safe-os
+module github.com/i9si-sistemas/safeos
 
 go 1.24.1
 
